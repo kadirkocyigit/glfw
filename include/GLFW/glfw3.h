@@ -85,6 +85,8 @@ extern "C" {
  *  information, see the @ref window_guide.
  */
 
+ // Insertions
+ #define GLFW_INCLUDE_NONE 
 
 /*************************************************************************
  * Compiler- and platform-specific preprocessor work
